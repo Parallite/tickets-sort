@@ -1,5 +1,5 @@
 {
-  "name": "airapp",
+  "name": "tickets-sort",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -42,8 +42,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "node-sass": "^7.0.3"
   }
 }
