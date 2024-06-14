@@ -1,1 +1,3 @@
-# tickets-sort
+<h2>Demo</h2>
+
+<p>Ознакомиться с живой демонстрацией можно перейдя по следующей ссылке: https://tickets-sort.vercel.app/.
