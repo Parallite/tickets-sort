@@ -1,0 +1,67 @@
+.container {
+    min-width: 250px;
+    margin: 20px 0;
+    padding: 40px 0;
+    background-color: #dcf4fb;
+    border-radius: 12px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+.group_wrapper {
+    margin-bottom: 20px;
+    padding: 20px 10px;
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px dashed white;
+}
+
+.group_title {
+    font-weight: bold;
+}
+
+.field_wrapper {
+    margin: 8px 0;
+    display: flex;
+    align-items: center;
+}
+
+.field_input {
+    margin-right: 12px;
+    cursor: pointer;
+}
+
+input[type="checkbox"]:disabled + label {
+    opacity: 0.2;
+    cursor: not-allowed;
+}
+
+
+.checkbox_container {
+    display: flex;
+    margin: 5px 0;
+}
+
+.field_price_input {
+    width: 100%;
+    cursor: pointer;
+}
+
+.checkbox_label {
+    cursor: pointer;
+    margin-right: 8px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.field_label {
+    cursor: pointer;
+    margin-right: 8px;
+}
+
+.text_container {
+    display: flex;
+    align-items: center;
+}

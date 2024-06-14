@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #4988c3;
+    color: white;
+    padding: 10px 10px;
+}
+
+.price_container {
+    text-align: end;
+}
+
+.price {
+    margin-bottom: 5px;
+}
